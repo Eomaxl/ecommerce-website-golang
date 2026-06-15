@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/Eomaxl/ecommerce-website-golang/cmd/service/user"
+	"github.com/Eomaxl/ecommerce-website-golang/service/user"
 	"github.com/gorilla/mux"
 )
 
